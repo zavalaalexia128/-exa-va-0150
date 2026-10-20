@@ -1,0 +1,12 @@
+INFORME DE PROCESAMIENTO DE VIDEO
+=============================================
+Alumno: Zavala Medina | NC: 0150
+Video: video-gato-0150.mp4
+Resolucion original: 1080 x 1920
+FPS originales: 29.97
+Duracion estimada: 11.68 s
+Fotogramas leidos: 350
+Fotogramas guardados: 6
+FPS promedio de procesamiento: 89.55
+Tiempo total de ejecucion: 14.82 s
+Intervalo de guardado: 2.0 s
